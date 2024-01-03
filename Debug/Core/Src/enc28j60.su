@@ -1,0 +1,4 @@
+../Core/Src/enc28j60.c:13:6:ENC28J60_Init	16	static
+../Core/Src/enc28j60.c:18:9:ENC28J60_ReadRegETH	32	static
+../Core/Src/enc28j60.c:34:9:ENC28J60_ReadRegMACMII	32	static
+../Core/Src/enc28j60.c:49:6:ENC28J60_RegDump	24	static
